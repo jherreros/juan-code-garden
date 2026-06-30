@@ -135,4 +135,34 @@ export const talks: Talk[] = [
     speakerdeckId: "64bafa800fa5436a9831c9815c053201",
     tags: ["Crossplane", "Helm",  "Kubernetes", "Infrastructure as Code", "Cloud Native", "Platform Engineering"],
   },
+  {
+    id: "platforms-for-humans-and-machines-aiengineer",
+    title: "Platforms for Humans and Machines: Engineering for the Age of AI Agents",
+    event: "AI Engineer Europe 2026",
+    date: "2026-04-08T00:00:00Z",
+    description: {
+      en: "Self-service interfaces, well-defined APIs with schemas and documentation, local-first workflows, and rich observability have always been important elements of a good platform. Now they are prerequisites for agents that can autonomously build, debug, and ship software.",
+      es: "Las interfaces de autoservicio, APIs bien definidas con esquemas y documentación, flujos de trabajo locales y observabilidad con detalle siempre han sido elementos importantes de una buena plataforma. Ahora son requisitos para agentes que pueden construir, depurar y enviar software de manera autónoma.",
+      da: "Selvbetjeningsgrænseflader, veldefinerede API'er med skemaer og dokumentation, lokale arbejdsprocesser og rig observabilitet har altid været vigtige elementer i en god platform. Nu er de forudsætninger for agenter, der kan bygge, fejlfinde og levere software autonomt."
+    },
+    videoUrl: "https://www.youtube.com/watch?v=cCRO3ChaYhM",
+    slides: "https://speakerdeck.com/jherreros/platforms-for-humans-and-machines-engineering-for-the-age-of-agents",
+    speakerdeckId: "bd5f88e3b8ee48c1b369de7801968f5c",
+    tags: ["AI", "Self-Service", "Platform Engineering", "Automation", "Observability", "APIs"],
+  },
+  {
+    id: "platforms-for-humans-and-machines-platformcon",
+    title: "Platforms for Humans and Machines: Engineering for the Age of AI Agents",
+    event: "PlatformCon 2026",
+    date: "2026-06-26T00:00:00Z",
+    description: {
+      en: "Self-service interfaces, well-defined APIs with schemas and documentation, local-first workflows, and rich observability have always been important elements of a good platform. Now they are prerequisites for agents that can autonomously build, debug, and ship software.",
+      es: "Las interfaces de autoservicio, APIs bien definidas con esquemas y documentación, flujos de trabajo locales y observabilidad con detalle siempre han sido elementos importantes de una buena plataforma. Ahora son requisitos para agentes que pueden construir, depurar y enviar software de manera autónoma.",
+      da: "Selvbetjeningsgrænseflader, veldefinerede API'er med skemaer og dokumentation, lokale arbejdsprocesser og rig observabilitet har altid været vigtige elementer i en god platform. Nu er de forudsætninger for agenter, der kan bygge, fejlfinde og levere software autonomt."
+    },
+    videoUrl: "https://www.youtube.com/watch?v=cCRO3ChaYhM",
+    slides: "https://speakerdeck.com/jherreros/platforms-for-humans-and-machines-engineering-for-the-age-of-agents-daf66ef5-42f2-47a3-88db-a304e613444e",
+    speakerdeckId: "bc3c25a9aee442fbaffc77dc87dd08ed",
+    tags: ["AI", "Self-Service", "Platform Engineering", "Automation", "Observability", "APIs"],
+  },
 ];
